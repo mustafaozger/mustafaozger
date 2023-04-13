@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mustafaozger
-- 🌱 I’m currently learning Java, Unity, C#
+- 🌱 I’m currently learning Android App development
 - 📫 How to reach me : [ozgermustafa118@gmail.com ](https://www.linkedin.com/in/mustafaozger02/)
  
 
