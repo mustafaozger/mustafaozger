@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mustafa Özger</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mustafaozger" alt="mustafaozger" /></a> </p>
 
-- 🌱 I’m currently learning **Android Application Development**
+- 🌱 I’m currently learning **Kotlin**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
