@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mustafa Özger</h1>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mustafaozger" alt="mustafaozger" /></a> </p>
-
 - 🌱 I’m currently learning **Kotlin**
+
+- 📫 How to reach me : **ozgermustafa118@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
