@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mustafa Özger</h1>
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I’m currently learning Android Application Development
 
 - 📫 How to reach me : **ozgermustafa118@gmail.com**
 
